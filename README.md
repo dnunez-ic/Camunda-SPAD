@@ -12,11 +12,11 @@ Este repositorio integra una aplicación web en Spring Boot 3.1.1 con la máquin
 ## Descripción
 
 Para la inicialización del proyecto de Spring Boot que integra la máquina de procesos de Camunda 7 se hace uso de la herramienta [Camunda Automation Platform 7 Initializr](https://start.camunda.com/)
-la cual es facilita la creación del proyecto definiendo las dependencias necesairas para el correcto fucnionamiento.
+la cual es facilita la creación del proyecto definiendo las dependencias necesarias para el correcto funcionamiento.
 
 Spring Boot es un marco de trabajo o framework que simplifica la creación de aplicaciones Java y el motor Camunda permite la ejecución y gestión de flujos de trabajo y procesos organizacionales.
 
-Con el uso de esta herramienta permite a los desarrolladores comenzar a trabajar en aplicaciones de automatización de procesos organizacionales de manera eficiente y rápida.
+Con el uso de esta herramienta le permite a los desarrolladores trabajar en aplicaciones de automatización de procesos organizacionales de manera eficiente y rápida.
 
 ## Prerrequisitos
 
